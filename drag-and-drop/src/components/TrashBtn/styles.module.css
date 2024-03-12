@@ -1,0 +1,20 @@
+.trash {
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  width: calc(24px + 1.5rem);
+  height: calc(24px + 1.5rem);
+  padding: .5rem;
+}
+
+.trash:hover {
+  background-color: rgba(255, 255, 255, 0.08);
+  filter: grayscale(.5);
+  cursor: pointer;
+}
+
+.trash svg {
+  user-select: none;
+  -webkit-user-drag: none;
+  pointer-events: none;
+}

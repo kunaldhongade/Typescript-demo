@@ -1,0 +1,14 @@
+:root {
+  --body-background: rgb(0, 30, 60);
+  --text-color: white;
+  --category-background: rgb(26, 32, 39);
+  --item-background: rgb(18, 18, 18);
+  --btn-text-color: rgb(144, 202, 249);
+  --btn-border: 1px solid rgba(144, 202, 249, 0.5);
+  --btn-border-hover: 1px solid rgb(144, 202, 249);
+  --btn-background-hover: rgba(144, 202, 249, 0.08);
+  --btn-color-disabled: rgba(255, 255, 255, 0.3);
+  --btn-border-disabled: 1px solid rgba(255, 255, 255, 0.12);
+
+  --border-radius: 10px;
+}

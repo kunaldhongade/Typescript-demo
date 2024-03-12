@@ -1,0 +1,23 @@
+@import "./__variables.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--body-background);
+  color: var(--text-color);
+}
+
+.text-input {
+  background-color: transparent;
+  border: transparent;
+  color: var(--text-color);
+}
+
+.text-input:focus {
+  line-height: 1.5rem;
+  outline-color: var(--text-color);
+}

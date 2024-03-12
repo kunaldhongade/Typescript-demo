@@ -1,0 +1,31 @@
+@import "../../styles/__variables.css";
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border: var(--btn-border);
+  border-radius: var(--border-radius);
+  color: var(--btn-text-color, white);
+  text-transform: uppercase;
+  padding: .8rem 1rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  user-select: none;
+  -webkit-user-drag: none;
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.btn:hover {
+  border: var(--btn-border-hover, 1px solid rgb(144, 202, 249));
+  background-color: var(--btn-background-hover, rgba(144, 202, 249, 0.08));
+}
+
+.btn:disabled {
+  color: var(--btn-color-disabled, rgba(255, 255, 255, 0.3));
+  border: var(--btn-border-disabled, 1px solid rgba(255, 255, 255, 0.12));
+  pointer-events: none;
+  cursor: default;
+}
