@@ -1,10 +1,10 @@
-# TimePass
+# Typescript-demo
 
-Welcome to the TimePass repository! This repository serves as a personal space to store miscellaneous code snippets, experiments, and projects for personal use.
+Welcome to the Typescript-demo repository! This repository serves as a personal space to store miscellaneous code snippets, experiments, and projects for personal use.
 
 ## Introduction
 
-TimePass is a personal repository created to store any code that doesn't fit into specific projects or categories. Whether it's a quick script, a small experiment, or a random idea, this repository provides a place to keep track of code snippets for future reference.
+Typescript-demo is a personal repository created to store any code that doesn't fit into specific projects or categories. Whether it's a quick script, a small experiment, or a random idea, this repository provides a place to keep track of code snippets for future reference.
 
 ## Features
 
@@ -15,16 +15,16 @@ TimePass is a personal repository created to store any code that doesn't fit int
 
 ## Usage
 
-To use the TimePass repository, follow these steps:
+To use the Typescript-demo repository, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/timepass.git
+   git clone https://github.com/your-username/Typescript-demo.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd timepass
+   cd Typescript-demo
    ```
 
 3. Create directories and add code snippets as needed. You can organize code by language, project type, or any other criteria that make sense for your use case.
@@ -33,7 +33,7 @@ To use the TimePass repository, follow these steps:
 
 ## Contributing
 
-Contributions to the TimePass repository are not accepted, as it's meant for personal use only. However, feel free to fork the repository and customize it to suit your needs. If you find any bugs or issues in the code, you can open an issue for personal reference.
+Contributions to the Typescript-demo repository are not accepted, as it's meant for personal use only. However, feel free to fork the repository and customize it to suit your needs. If you find any bugs or issues in the code, you can open an issue for personal reference.
 
 ## License
 
